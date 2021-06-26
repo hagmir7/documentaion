@@ -1,0 +1,87 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+/* Bottuns */
+
+.ag-orange-d{background: linear-gradient(180deg,#d84315,#bf360c);color: white;}
+.ag-orange-d:hover{background: #d65b36;color: white;}
+.ag-gray{background: linear-gradient(180deg,#90a4ae,#78909c);}
+.ag-blue{background: linear-gradient(180deg,#42a5f5,#2196f3);color: white;}
+.ag-blue:hover{background: linear-gradient(180deg,#2a90e2,#89a9c1);color: white;}
+.ag-gray:hover{background: linear-gradient(180deg,#78909c,#546e7a);color: white;}
+.ag-green{background: linear-gradient(180deg,#1da650,#1b9b4a);color: white;}
+.ag-green:hover{background: linear-gradient(180deg,#0b8738,#006023);color: white;}
+.ag-voilet{background: #794dc1c7;color: white;}
+.ag-voilet:hover{background: #703ec1de;color: white;}
+.ag-orange{color: #FFFFFF;background-color: #EB5E28;opacity: 1;}
+.ag-orange:hover{background: #d65b36;color: white;}
+
+
+.ag-blue-t{    background-color: #68B3C8;
+    color: rgba(255, 255, 255, 0.85);
+    border-color: #68B3C8;}
+    .ag-blue-t:hover{
+        background: linear-gradient(180deg,#42a5f5,#2196f3);color: white;
+    }
+
+.ag-green-d{
+    background-color: #7AC29A;
+    color: rgba(255, 255, 255, 0.85);
+}
+.ag-green-d:hover{
+    background-color: #619c7c;
+    color: white
+}
+.ag-yellow-d{
+    background-color: #F3BB45;
+    color: rgba(255, 255, 255, 0.85);
+    border-color: #F3BB45;
+}
+.ag-yellow-d:hover {
+    background-color: #deaf4c;
+    color: white;
+    border-color: #F3BB45;
+}
+.btn-ag {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    border-radius: 3px;
+    font-size: 14px;
+    line-height: 40px;
+    height: 40px;
+    padding: 0 20px;
+    text-align: center;
+    text-decoration: none;
+    white-space: nowrap;
+    border: none;
+
+}
+
+
+/* Cards */
+.card{
+    box-shadow: 0px 2px 4px rgb(0 0 0 / 8%), 0px 0px 2px rgb(0 0 0 / 8%);
+    background-color: white;
+}
+
+.card-s{
+    box-shadow: 0px 2px 4px rgb(0 0 0 / 8%), 0px 0px 2px rgb(0 0 0 / 8%);
+    background-color: white;
+}
+
+
+
+
+
+.s {
+    color: #d73038;
+}
+.na {
+    color: #006ee0;
+}
